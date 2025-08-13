@@ -1,13 +1,7 @@
 ## Hi there! 👋
 
-I'm Martin — a frontend architect and full-stack engineer focused on scalable UI systems, modular content platforms, and developer enablement.
 
-### 🛠 What I Build
-Here you'll find tools, prototypes, and utilities that streamline development workflows, clarify onboarding, and surface architectural nuance. I focus on scalable UI systems, modular content platforms, and rapid prototyping—often blending React, TypeScript, accessibility, and DevOps automation.
-
-If you're into clean architecture, copy/paste-ready components, or subtle distinctions in frontend logic—feel free to explore, fork, or reach out. I'm always up for a thoughtful technical conversation.
-
-### 🔍 Latest Projects
+### 🔍 Latest Personal Projects
 - **React Component Scaffolder**  
   CLI tool for generating accessible React components with tests, Storybook, and docs.  
   [npm Package](https://www.npmjs.com/package/react-component-scaffolder)
