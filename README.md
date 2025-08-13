@@ -3,7 +3,7 @@ I'm Martin — a frontend architect and full-stack engineer focused on scalable 
 
 I build tools that streamline workflows, clarify onboarding, and surface architectural nuance. My work often blends React, TypeScript, JavaScript (ES6+), accessibility, and DevOps automation to create systems that are intuitive, performant, and reusable.
 
-If you're into clean architecture, copy/paste-ready components, or subtle distinctions in frontend logic—feel free to explore, fork, or [reach out]. Always happy to chat architecture, onboarding clarity, or frontend nuance. You can also connect with me on [LinkedIn].
+If you're into clean architecture, copy/paste-ready components, or subtle distinctions in frontend logic—feel free to explore, fork, or [reach out](mailto:martin@webect.com). Always happy to chat architecture, onboarding clarity, or frontend nuance. You can also connect with me on [LinkedIn].
 
 ---
 
