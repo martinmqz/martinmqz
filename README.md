@@ -26,7 +26,8 @@ These are experiments, prototypes, and ideas I’ve built outside of work—ofte
   Tailwind-powered component showcase using Shadcn UI.  
   [Live Demo](https://martinmqz.github.io/shadcn-ui-demo/?github=md) | [Repo](https://github.com/martinmqz/shadcn-ui-demo)
   
-  <img width="300" alt="Shadcn UI Demo" src="https://github.com/user-attachments/assets/ff7af8da-19df-49f0-8663-de5758c4c95a" />
+  [<img width="300" alt="image" src="https://github.com/user-attachments/assets/3bf2afbc-adcb-4132-85e7-a16147109193" />](https://martinmqz.github.io/shadcn-ui-demo/?github=md)
+
 
 - 📞 **Visual IVR Prototype**  
   Simulated IVR flow with modular UI logic.  
