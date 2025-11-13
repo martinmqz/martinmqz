@@ -14,6 +14,14 @@ These are experiments, prototypes, and ideas I’ve built outside of work—ofte
 [repo](https://github.com/martinmqz/dev-notes) is my living knowledge base — a modular collection of frontend, backend, and AI workflow insights. I use it to track ideas, document reusable patterns, and share practical tips with the developer community. Whether you're exploring React performance tricks, API design strategies, or prompt engineering experiments, this repo is built for clarity, reuse, and public impact.
   - Using requestAnimationFrame [requestAnimationFrame](https://github.com/martinmqz/dev-notes/blob/main/frontend/performance/request-animation-frame.md)
 
+- ## 📝 Todo AI Agent Demo
+A minimal AI agent that demonstrates the **Perceive → Plan → Act → Reflect** loop using natural language and a simple task list.  
+Built as a **learning and sharing demo**, it’s perfect for exploring agent concepts, experimenting with LLMs, or learning.
+
+🔗 [View the repo →](https://github.com/martinmqz/todo-ai-agent-demo)
+
+ <img width="300" alt="Todo AI Agent Demo" src="https://github.com/martinmqz/todo-ai-agent-demo/raw/main/resources/images/prompt-1-response.png" />
+
 - 🚀 **React Component Scaffolder**  
   CLI tool for generating accessible React components with tests, Storybook, and docs.  
   [npm Package](https://www.npmjs.com/package/react-component-scaffolder)
