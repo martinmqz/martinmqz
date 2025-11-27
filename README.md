@@ -14,6 +14,13 @@ These are experiments, prototypes, and ideas I’ve built outside of work—ofte
 dev-notes [repo](https://github.com/martinmqz/dev-notes) is my living knowledge base — a modular collection of frontend, backend, and AI workflow insights. I use it to track ideas, document reusable patterns, and share practical tips with the developer community. Whether you're exploring React performance tricks, API design strategies, or prompt engineering experiments, this repo is built for clarity, reuse, and public impact.
   - Using requestAnimationFrame [requestAnimationFrame](https://github.com/martinmqz/dev-notes/blob/main/frontend/performance/request-animation-frame.md)
 ---
+
+- 📝 **Timesheet App - Next.js, PostgreSQL, OAuth, TailwindCSS**
+
+   A modern timesheet tracker built with Next.js and TypeScript, styled with TailwindCSS and backed by PostgreSQL. Easily log work hours, manage line items, and access securely with OAuth authentication — all within a responsive, user‑friendly interface.
+  
+  🔗 [View the repo →](https://github.com/martinmqz/timesheet)
+
 - 📝 **Todo AI Agent Demo**
   A minimal AI agent that demonstrates the **Perceive → Plan → Act → Reflect** loop using natural language and a simple task list.  
   Built as a **learning and sharing demo**, it’s perfect for exploring agent concepts, experimenting with LLMs, or learning.
