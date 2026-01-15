@@ -12,7 +12,9 @@ These are experiments, prototypes, and ideas I’ve built outside of work—ofte
 
 ## 🧠 **dev-notes** 
 dev-notes [repo](https://github.com/martinmqz/dev-notes) is my living knowledge base — a modular collection of frontend, backend, and AI workflow insights. I use it to track ideas, document reusable patterns, and share practical tips with the developer community. Whether you're exploring React performance tricks, API design strategies, or prompt engineering experiments, this repo is built for clarity, reuse, and public impact.
-  - Using requestAnimationFrame [requestAnimationFrame](https://github.com/martinmqz/dev-notes/blob/main/frontend/performance/request-animation-frame.md)
+  - Using requestAnimationFrame [requestAnimationFrame](https://github.com/martinmqz/dev-notes/blob/main/request-animation-frame/README.md)
+  - [react-keys-&-hydration-best-practices](https://github.com/martinmqz/dev-notes/blob/main/react-keys-&-hydration-best-practices/README.md)
+  - [tailwindcss-v4-in-turbo-monorepo](https://github.com/martinmqz/dev-notes/blob/main/tailwindcss-v4-in-turbo-monorepo/README.md)
 ---
 
 - 📝 **Timesheet App - Next.js, PostgreSQL, OAuth, TailwindCSS**
