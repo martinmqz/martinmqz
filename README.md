@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://api.webect.com/px)
+![image](https://api.webect.com/px?r=git)
