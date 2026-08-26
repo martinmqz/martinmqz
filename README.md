@@ -20,6 +20,8 @@ Experiments and tools built outside of work, to explore patterns, test ideas, or
 
 - 🤖 **Agent Guidance Sync**
   CLI tool for keeping AGENTS.md, CLAUDE.md, Cursor rules, and GitHub Copilot instructions synchronized from one canonical source.
+  [View the repo →](https://github.com/martinmqz/agent-guidance-sync) · [View NPM package →](https://www.npmjs.com/package/@martinmqz/agent-guidance-sync)
+
   [![npm version](https://img.shields.io/npm/v/@martinmqz/agent-guidance-sync)](https://www.npmjs.com/package/@martinmqz/agent-guidance-sync)
   [![npm downloads](https://img.shields.io/npm/dm/@martinmqz/agent-guidance-sync)](https://www.npmjs.com/package/@martinmqz/agent-guidance-sync)
   
