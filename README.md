@@ -18,6 +18,11 @@ Open to senior full-stack and AI-native roles. [Reach out](mailto:martin@webect.
 ### 🔍 Personal Projects
 Experiments and tools built outside of work, to explore patterns, test ideas, or scratch a technical itch.
 
+- 🤖 **Agent Guidance Sync**
+  CLI tool for keeping AGENTS.md, CLAUDE.md, Cursor rules, and GitHub Copilot instructions synchronized from one canonical source.
+  [![npm version](https://img.shields.io/npm/v/@martinmqz/agent-guidance-sync)](https://www.npmjs.com/package/@martinmqz/agent-guidance-sync)
+  [![npm downloads](https://img.shields.io/npm/dm/@martinmqz/agent-guidance-sync)](https://www.npmjs.com/package/@martinmqz/agent-guidance-sync)
+  
 - 📝 **Todo AI Agent Demo**
   A minimal AI agent demonstrating the **Perceive → Plan → Act → Reflect** loop using natural language and a simple task list. Built as a learning and sharing demo for exploring agent concepts and LLMs.
 
